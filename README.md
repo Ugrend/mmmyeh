@@ -1,6 +1,6 @@
 # osu Web Replays
 
-osu Web Replays is a tool to allow to watch [osu!](http://osu.ppy.sh/) replays in your browser.
+osu! Web Replays is a tool to allow to watch [osu!](http://osu.ppy.sh/) replays in your browser.
 
 ## Getting Started
 
